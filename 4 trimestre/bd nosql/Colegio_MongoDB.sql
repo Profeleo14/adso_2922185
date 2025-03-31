@@ -2,8 +2,8 @@
 
 -- alumnos
   {
-   "id_alumno" : 10307894421,
-   "nombres" : "Milan",
+   "id_alumno" : 1015678990,
+   "nombres" : "Milan Andres",
    "apellido" : "Pineda Rodriguez",
    "direccion" : "Cra 67 # 78-45",
    "telefono" : 6015679902,
@@ -15,13 +15,13 @@
 
 -- acudientes
   {
-   "id_acudiente" : 80830111,
+   "id_acudiente" : 80830113,
    "apellido" : "Pineda Uribe",
    "nombres" : "Javier Leonardo"
   }
 
  {
-   "id_acudiente" : 39876382,
+   "id_acudiente" : 398763824,
    "apellido" : "Rubio Toño",
    "nombres" : "Claudia Lorena"
   }
